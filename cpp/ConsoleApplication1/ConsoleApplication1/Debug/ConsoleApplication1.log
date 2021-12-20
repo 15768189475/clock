@@ -1,0 +1,10 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\13651\Desktop\clock\cpp\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(25,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\13651\Desktop\clock\cpp\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(26,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\13651\Desktop\clock\cpp\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(30,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\13651\Desktop\clock\cpp\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(31,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\13651\Desktop\clock\cpp\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(60,42): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\13651\Desktop\clock\cpp\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(61,42): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\13651\Desktop\clock\cpp\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(68,42): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\13651\Desktop\clock\cpp\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(69,42): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  ConsoleApplication1.vcxproj -> C:\Users\13651\Desktop\clock\cpp\ConsoleApplication1\Debug\ConsoleApplication1.exe
